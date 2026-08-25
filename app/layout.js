@@ -14,13 +14,7 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "BuildStack | Software, cloud, and IT systems",
   description:
-    "BuildStack helps growing teams plan, build, and maintain the software systems their operations depend on.",
-  openGraph: {
-    title: "BuildStack | Software, cloud, and IT systems",
-    description:
-      "Custom software, web applications, cloud deployments, automation, integrations, and ongoing technical support.",
-    type: "website",
-  },
+    "BuildStack helps medium-sized businesses design, build, deploy, and maintain reliable digital systems.",
 };
 
 export default function RootLayout({ children }) {
