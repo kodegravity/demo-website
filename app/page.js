@@ -3,9 +3,9 @@ export default function Home() {
     <main>
       <section className="hero" id="top">
         <nav className="nav page-width" aria-label="Main navigation">
-          <a className="brand" href="#top" aria-label="BuildStack home">
+          <a className="brand" href="#top" aria-label="Quantorule home">
             <span className="brand-mark" aria-hidden="true">B</span>
-            <span>BuildStack</span>
+            <span>Quantorule</span>
           </a>
           <div className="nav-links">
             <a href="#services">Services</a>
@@ -25,8 +25,8 @@ export default function Home() {
               <a className="text-link" href="#services">View services <span aria-hidden="true">&#8594;</span></a>
             </div>
           </div>
-          <div className="hero-visual delivery-brief" aria-label="BuildStack delivery brief">
-            <div className="visual-label">A TYPICAL STARTING POINT <span>BUILDSTACK / 01</span></div>
+          <div className="hero-visual delivery-brief" aria-label="Quantorule delivery brief">
+            <div className="visual-label">A TYPICAL STARTING POINT <span>QUANTORULE / 01</span></div>
             <div className="brief-heading"><span className="brief-status" /> DELIVERY BRIEF <strong>IN REVIEW</strong></div>
             <div className="brief-row"><span>Business need</span><strong>Replace manual reporting</strong></div>
             <div className="brief-row"><span>Work involved</span><strong>Data flow / dashboard / access</strong></div>
@@ -66,9 +66,9 @@ export default function Home() {
 
       <section className="engagements section page-width"><div className="section-heading"><div><p className="eyebrow"><span className="eyebrow-line" /> TYPICAL ENGAGEMENTS</p><h2>Useful work, clearly framed.</h2></div><p className="heading-note">Every engagement is different. These examples show the kinds of problems we help medium-sized businesses solve.</p></div><div className="engagement-grid"><article><span className="card-number">EXAMPLE 01</span><h3>Replace a manual reporting process</h3><p>A central dashboard and automated data flow gave an operations team a more dependable view of performance.</p><a className="text-link" href="#contact">Explore a similar challenge &#8594;</a></article><article><span className="card-number">EXAMPLE 02</span><h3>Bring a growing platform to production</h3><p>A practical cloud foundation and deployment workflow helped a product team ship with more confidence.</p><a className="text-link" href="#contact">Explore a similar challenge &#8594;</a></article></div></section>
 
-      <section className="contact-section" id="contact"><div className="page-width contact-inner"><p className="eyebrow eyebrow-light"><span className="eyebrow-line" /> HAVE A COMPLEX PROBLEM?</p><h2>Let&apos;s make the next step clearer.</h2><p>Tell us what you&apos;re trying to build, improve, or untangle. We&apos;ll come prepared to listen and add useful perspective.</p><a className="button button-primary" href="mailto:info@buildstack.com">Start a conversation <span aria-hidden="true">-&gt;</span></a></div></section>
+      <section className="contact-section" id="contact"><div className="page-width contact-inner"><p className="eyebrow eyebrow-light"><span className="eyebrow-line" /> HAVE A COMPLEX PROBLEM?</p><h2>Let&apos;s make the next step clearer.</h2><p>Tell us what you&apos;re trying to build, improve, or untangle. We&apos;ll come prepared to listen and add useful perspective.</p><a className="button button-primary" href="mailto:info@quantorule.com">Start a conversation <span aria-hidden="true">-&gt;</span></a></div></section>
 
-      <footer className="footer"><div className="page-width footer-grid"><div><a className="brand brand-footer" href="#top"><span className="brand-mark" aria-hidden="true">B</span><span>BuildStack</span></a><p>Software, cloud, and IT systems built for growing businesses.</p></div><div><span className="footer-label">CONTACT</span><a href="mailto:info@buildstack.com">info@buildstack.com</a><span>Remote-first consulting team</span></div><div><span className="footer-label">NAVIGATE</span><a href="#services">Services</a><a href="#approach">Approach</a><a href="#contact">Contact</a></div></div><div className="page-width footer-bottom"><span>© 2026 BuildStack. All rights reserved.</span><span>Built with intention.</span></div></footer>
+      <footer className="footer"><div className="page-width footer-grid"><div><a className="brand brand-footer" href="#top"><span className="brand-mark" aria-hidden="true">Q</span><span>Quantorule</span></a><p>Software, cloud, and IT systems built for growing businesses.</p></div><div><span className="footer-label">CONTACT</span><a href="mailto:info@quantorule.com">info@quantorule.com</a><span>Remote-first consulting team</span></div><div><span className="footer-label">NAVIGATE</span><a href="#services">Services</a><a href="#approach">Approach</a><a href="#contact">Contact</a></div></div><div className="page-width footer-bottom"><span>© 2026 Quantorule. All rights reserved.</span><span>Built with intention.</span></div></footer>
     </main>
   );
 }

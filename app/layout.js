@@ -12,13 +12,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "BuildStack | Software, cloud, and IT systems",
+  title: "Quantorule | IT consulting and software development",
   description:
-    "BuildStack helps growing teams plan, build, and maintain the software systems their operations depend on.",
+    "Quantorule is an IT consulting and custom software development company helping medium-sized businesses build reliable digital systems.",
   openGraph: {
-    title: "BuildStack | Software, cloud, and IT systems",
+    title: "Quantorule | IT consulting and software development",
     description:
-      "Custom software, web applications, cloud deployments, automation, integrations, and ongoing technical support.",
+      "IT consulting, custom software, web applications, cloud deployments, automation, integrations, and ongoing technical support.",
     type: "website",
   },
 };
