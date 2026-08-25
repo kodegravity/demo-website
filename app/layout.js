@@ -21,6 +21,12 @@ export const metadata = {
       "IT consulting, custom software, web applications, cloud deployments, automation, integrations, and ongoing technical support.",
     type: "website",
   },
+  twitter: {
+    card: "summary",
+    title: "Quantorule | IT consulting and software development",
+    description:
+      "IT consulting, custom software, web applications, cloud deployments, automation, integrations, and ongoing technical support.",
+  },
 };
 
 export default function RootLayout({ children }) {
